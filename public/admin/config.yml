@@ -3,7 +3,7 @@
 
 backend:
   name: github
-  repo: andersthemagi/humanfirstai-web
+  repo: hkcarre/humanfirstai-web
   branch: main
   base_url: https://api.netlify.com # Netlify signs editors in with GitHub (Site settings > Access & security > OAuth)
 
